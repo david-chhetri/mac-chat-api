@@ -51,6 +51,6 @@ npm run build
 * change port to `"port": process.env.PORT`
 * change mongoUrl to `"mongoUrl": process.env.MONGODB_URI`
 
-You can also spin up a free Heroku dyno to test it out:
+You can also spin up free Heroku dyno to test it out :
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/devslopes/mac-chat-api)
